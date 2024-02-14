@@ -44,3 +44,5 @@ const AllData = () => {
 };
 
 export default AllData;
+
+// Code by Ajay Shankar
